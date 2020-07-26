@@ -1,0 +1,1 @@
+This is a simple virtual assistant created using python used for performing daily tasks on your computer like opening a website,sending an email,opening programs on your computer,giving information about something from wikipedia.
