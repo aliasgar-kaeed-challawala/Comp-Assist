@@ -73,11 +73,11 @@ if __name__ == "__main__":
             strTime = datetime.datetime.now().strftime("%H:%M:%S")
             print(strTime)
             speak(f"The time is{strTime}")
-        elif('open code' in query):
-            codepath="C:\\Users\\Aliasgar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+        elif('open(name of the program)' in query):
+            codepath=#"file-path"
             os.startfile(codepath)
-        elif('open zoom' in query):
-            codepath="C:\\Users\\Aliasgar\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe"
+        elif('open (name of the proogram))' in query):
+            codepath=#"file-path"
             os.startfile(codepath)
         
             
